@@ -2,12 +2,8 @@
 
 # Hi! I'm David. It's nice to meet you. :wave:
 ## About Me:
-🌱 I’m currently learning Full-Stack Development.
-👯 I’m looking to collaborate on UI/UX design and Full-Stack Development.
-🤔 I like: Solving problems, creating new things, running, and music.
-🤩 I’m exploring different opportunities in Full-Stack Development.
-💬 Ask me about: Front-end and Back-end Development including: JavaScript | Node | CSS | Bootstrap | HTML | React.
-⚡ Passion: I am eager to learn, have strong interpersonal skills, and have the ability to handle pressure and meet deadlines.
+![coding](https://user-images.githubusercontent.com/30289772/208741012-2b7d9c93-0a2d-4e3d-af2d-e10bf319bbfd.gif)<br>
+🌱 I’m currently learning Full-Stack Development<br>👯 I’m looking to collaborate on UI/UX design and Full-Stack Development<br>🤔 I like: Solving problems, creating new things, running, and music. <br>🤩 I’m exploring different opportunities in Full-Stack Development<br>💬 Ask me about: Front-end and Back-end Development including: JavaScript | Node | CSS | Bootstrap | HTML | React<br>⚡ Passion: I am eager to learn, have strong interpersonal skills, and have the ability to handle pressure and meet deadlines<br>
 
 ## My Portfolio 
 **[Portfolio]( https://david30-maker.github.io/Personal-portfolio/)**
