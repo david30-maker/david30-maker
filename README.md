@@ -1,13 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=David-Igbo">
 
 # Hi! I'm David. It's nice to meet you. :wave:
-## About Me :man:
-🌱 I’m currently learning Full-Stack Development
-👯 I’m looking to collaborate on UI/UX design and Full-Stack Development
+## About Me:
+🌱 I’m currently learning Full-Stack Development.
+👯 I’m looking to collaborate on UI/UX design and Full-Stack Development.
 🤔 I like: Solving problems, creating new things, running, and music.
-🤩 I’m exploring different opportunities in Full-Stack Development
-💬 Ask me about: Front-end and Back-end Development including: JavaScript | Node | CSS | Bootstrap | HTML | React
-⚡ Passion: I am eager to learn, have strong interpersonal skills, and have the ability to handle pressure and meet deadlines
+🤩 I’m exploring different opportunities in Full-Stack Development.
+💬 Ask me about: Front-end and Back-end Development including: JavaScript | Node | CSS | Bootstrap | HTML | React.
+⚡ Passion: I am eager to learn, have strong interpersonal skills, and have the ability to handle pressure and meet deadlines.
 
 ## My Portfolio 
 **[Portfolio]( https://david30-maker.github.io/Personal-portfolio/)**
