@@ -2,15 +2,12 @@
 
 # Hi! I'm David. It's nice to meet you. :wave:
 ## About Me :man:
-I'm a front-end developer who is passionate about creating beautiful and functional web applications. My expertise lies in HTML, CSS, React and Ruby on Rails.
-
-I have a strong understanding of front-end development principles and have gained experience building responsive and user-friendly web pages. I love using React to create dynamic user interfaces and manage state, and I have a talent for combining HTML and CSS to create visually appealing layouts. Plus, I have the added bonus of experience in integrating front-end components with Ruby on Rails back-end systems.
-
-I've worked on a variety of projects in the past, both small and large-scale. From start to finish, I bring my skills in using version control systems (such as Git) and my focus on writing clean, maintainable and well-documented code to every project.
-
-I'm a lifelong learner and love to stay up to date with the latest industry trends and best practices. Collaboration is key for me, and I enjoy working with others to find creative solutions to technical challenges.
-
-If you're looking for a front-end developer who brings passion, experience, and a love for React, HTML, CSS and Ruby on Rails to the table, then I'm your guy! Let's work together and build something amazing!
+🌱 I’m currently learning Full-Stack Development
+👯 I’m looking to collaborate on UI/UX design and Full-Stack Development
+🤔 I like: Solving problems, creating new things, running, and music.
+🤩 I’m exploring different opportunities in Full-Stack Development
+💬 Ask me about: Front-end and Back-end Development including: JavaScript | Node | CSS | Bootstrap | HTML | React
+⚡ Passion: I am eager to learn, have strong interpersonal skills, and have the ability to handle pressure and meet deadlines
 
 ## My Portfolio 
 **[Portfolio]( https://david30-maker.github.io/Personal-portfolio/)**
