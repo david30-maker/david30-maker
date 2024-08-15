@@ -19,8 +19,8 @@
  ![postgresql](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![ruby on rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![nodejs](https://www.shutterstock.com/image-vector/node-js-1021480693)
-![ruby on rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![nodejs](https://img.shields.io/badge/nodejs-CC342D?style=for-the-badge&logo=nodejs&logoColor=white)
+![expressjs](https://img.shields.io/badge/expressjs-CC342D?style=for-the-badge&logo=expressjs&logoColor=white)
 
 
  ### **Terminal** 
